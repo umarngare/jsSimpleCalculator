@@ -1,0 +1,9 @@
+/* Importing Quicksand font */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&family=Quicksand:wght@300..700&display=swap');
+
+/* .quicksand-<uniquifier> {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  } */
