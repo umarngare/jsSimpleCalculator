@@ -7,3 +7,25 @@
     font-weight: <weight>;
     font-style: normal;
   } */
+/* Designing main div look */
+
+.heading {
+    text-align: center;
+    /* height: 30vh; */
+    /* border: 1px blue solid; */
+    margin-top: 20px;
+    padding-top: 10px;
+}
+/* Design for title header */
+#header {
+    font-family: "Felix Titling";
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 3px;
+}
+
+/* Design for title text */
+.heading-text {
+    font-family: "Rockwell";
+    letter-spacing: 20px;
+}
